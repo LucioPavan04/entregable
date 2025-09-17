@@ -1,0 +1,14 @@
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\bin\Debug\net8.0\EmpresaDeSoftware.exe
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\bin\Debug\net8.0\EmpresaDeSoftware.deps.json
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\bin\Debug\net8.0\EmpresaDeSoftware.runtimeconfig.json
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\bin\Debug\net8.0\EmpresaDeSoftware.dll
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\bin\Debug\net8.0\EmpresaDeSoftware.pdb
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\obj\Debug\net8.0\EmpresaDeSoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\obj\Debug\net8.0\EmpresaDeSoftware.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\obj\Debug\net8.0\EmpresaDeSoftware.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\obj\Debug\net8.0\EmpresaDeSoftware.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\obj\Debug\net8.0\EmpresaDeSoftware.dll
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\obj\Debug\net8.0\refint\EmpresaDeSoftware.dll
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\obj\Debug\net8.0\EmpresaDeSoftware.pdb
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\obj\Debug\net8.0\EmpresaDeSoftware.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Escritorio\proyecto C#\EmpresaDeSoftware\EmpresaDeSoftware\obj\Debug\net8.0\ref\EmpresaDeSoftware.dll
